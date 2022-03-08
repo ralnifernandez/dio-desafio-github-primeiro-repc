@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repc
+# dio-desafio-github-primeiro-repositorio
 Desafio do Projeto sobre GitHub
